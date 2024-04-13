@@ -1,6 +1,6 @@
-#Title: Modern Image Gallery Template with Tailwind CSS and React
+Title: Modern Image Gallery Template with Tailwind CSS and React
 
-#Description:
+Description:
 
 This modern image gallery template is designed to showcase a collection of images in a visually appealing and responsive manner. Built using React and styled with Tailwind CSS, it offers a seamless and engaging browsing experience for users.
 
